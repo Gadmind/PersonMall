@@ -15,5 +15,7 @@
         <module>mall-order</module>
         <module>mall-product</module>
         <module>mall-ware</module>
+        <module>mall-admin</module>
+        <module>mall-codegenerator</module>
     </modules>
 </project>
