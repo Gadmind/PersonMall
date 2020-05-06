@@ -17,5 +17,6 @@
         <module>mall-ware</module>
         <module>mall-admin</module>
         <module>mall-codegenerator</module>
+        <module>mall-common</module>
     </modules>
 </project>
