@@ -1,4 +1,7 @@
-
+nacos:
+  user:
+    name: 123
+    age: 123
 spring:
   datasource:
     username: root
